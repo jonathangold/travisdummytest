@@ -1,0 +1,6 @@
+language: go
+os:
+  - linux
+sudo: true
+dist: trusty
+install: './travistest.sh'
